@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanialZaree&count_private=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanialZaree)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanialZaree)
