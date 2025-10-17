@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Danial's GitHub stats](https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=tokyonight&cache_seconds=1&v=1)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanialZaree)
