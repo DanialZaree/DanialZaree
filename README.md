@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=danialzaree.danialzaree&style=flat-square&left_color=%2291b3ff&right_color=%23292d3e&left_text_color=%23e0ffff&right_text_color=%23ffc700)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=danialzaree.danialzaree&style=flat-square&left_color=%23291b3e&right_color=%23542a5e&left_text_color=%23a960ff&right_text_color=%23ffc700)
 
 ![Danial's GitHub stats](https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true)
 
