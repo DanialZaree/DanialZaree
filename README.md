@@ -40,10 +40,10 @@ Driven by a commitment to clean code and effective problem-solving, I excel at t
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true&border_color=191724" alt="Danial's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true&border_color=191724" alt="GitHub Streak" />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true&border_color=191724" alt="Danial's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true&border_color=191724" alt="GitHub Streak" />
+</div>
 
  
 
