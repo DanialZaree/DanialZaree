@@ -61,4 +61,8 @@ Driven by a commitment to clean code and effective problem-solving, I excel at t
   </a>
 </div>
 
+ 
+
+### 📊 My GitHub Contributions
+
 <img src="https://ssr-contributions-svg.vercel.app/_/danialzaree?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&dark=true" />
