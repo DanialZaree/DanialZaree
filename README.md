@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=danialzaree.danialzaree&style=flat-square&left_color=%23291b3e&right_color=%23542a5e&left_text_color=%23a960ff&right_text_color=%23ffc700)
 
-<img src="https://user-images.githubusercontent.com/74038190/226127442-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="gif2" width="100%">
+![sdf](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
 ### 👋 Hello there! I'm Danial Zaree.
 
