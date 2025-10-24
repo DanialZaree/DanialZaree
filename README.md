@@ -4,19 +4,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="sdf" width="100%">
 
-### 👋 Hello there! I'm Danial Zaree.
+### 👋 Hello, I'm Danial Zaree.
 
-I'm a passionate **Full Stack Developer** with a keen eye for building robust, scalable, and user-friendly web applications. My journey in software development is fueled by curiosity, a love for problem-solving, and a commitment to crafting clean, efficient code. I specialize in turning complex ideas into elegant digital solutions, always striving to deliver exceptional user experiences.
+I am a **Front-End Developer** based in Hamedan, Iran, with two years of professional experience. I specialize in building robust, scalable, and user-friendly web applications.
 
----
+Driven by a commitment to clean code and effective problem-solving, I excel at translating complex ideas into elegant digital solutions. My focus is always on crafting efficient applications that deliver an exceptional user experience.
+
+ 
 
 ### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
@@ -25,29 +23,30 @@ I'm a passionate **Full Stack Developer** with a keen eye for building robust, s
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
----
+ 
 
 ### 📈 My GitHub Stats
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true" alt="Danial's GitHub stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p style="display:flex; flex-direction:row; justify-content: center; flex-wrap: nowrap; gap: 16px;">
+  <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true&border_color=191724" alt="Danial's GitHub stats" />
+  <span style="visibility: hidden;">      </span>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true&border_color=191724" alt="GitHub Streak" />
+</p>
+
+ 
 
 ### 📫 Connect with Me
 
