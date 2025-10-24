@@ -38,10 +38,16 @@ I'm a passionate **Full Stack Developer** with a keen eye for building robust, s
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true" alt="Danial's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true" alt="Danial's GitHub stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Connect with Me
 
