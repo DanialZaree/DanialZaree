@@ -44,7 +44,7 @@ Driven by a commitment to clean code and effective problem-solving, I excel at t
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true" alt="Danial's GitHub stats" width="47%"/>
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanialZaree&theme=jolly&hide_border=true" alt="GitHub Streak" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=danialzaree&theme=jolly&hide_border=true" alt="GitHub Streak" width="50%" />
 </p>
 
  
