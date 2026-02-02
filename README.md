@@ -51,16 +51,31 @@ Driven by a commitment to clean code and effective problem-solving, I excel at t
 
 ### 📫 Connect with Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/DanialZaree" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/danialzaree_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-    <a href="https://t.me/Danialzaree0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+
+  
+  <!-- Profile Image -->
+  <img 
+    src="https://lotfitarash.ir/danial%20zaree.jpg" 
+    alt="Danial Zaree"
+    width="160"
+    style="border-radius: 12px;"
+  />
+  
+  <!-- Social Links -->
+  <div>
+    <a href="https://www.linkedin.com/in/DanialZaree" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+    </a>
+    <a href="https://www.instagram.com/danialzaree_/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
+    </a>
+    <a href="https://t.me/Danialzaree0" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
+    </a>
+  </div>
+
+
 </div>
 
  
