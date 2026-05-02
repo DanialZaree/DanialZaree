@@ -63,7 +63,7 @@ Driven by a commitment to clean code and effective problem-solving, I excel at t
   />
   
   <!-- Social Links -->
-  <div>
+  <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="https://www.linkedin.com/in/DanialZaree" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
     </a>
