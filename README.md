@@ -6,7 +6,7 @@
 
 ### 👋 Hello, I'm Danial Zaree.
 
-I am a **Front-End Developer** based in Hamedan, Iran, with two years of professional experience. I specialize in building robust, scalable, and user-friendly web applications.
+I am a **Front-End Developer** based in Hamedan, Iran, with four years of professional experience. I specialize in building robust, scalable, and user-friendly web applications.
 
 Driven by a commitment to clean code and effective problem-solving, I excel at translating complex ideas into elegant digital solutions. My focus is always on crafting efficient applications that deliver an exceptional user experience.
 
