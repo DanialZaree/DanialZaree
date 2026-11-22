@@ -42,7 +42,7 @@ I build fast, scalable web applications with a focus on clean architecture and s
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true" alt="Danial's GitHub stats" height="180" />
+  <img src="https://github-readme-stats-three-eta-66.vercel.app/api?username=DanialZaree&count_private=true&theme=jolly&cache_seconds=1&v=1&hide_border=true&show_icons=true" alt="Danial's GitHub stats" width="48" />
   <img src="https://streak-stats.demolab.com/?user=danialzaree&theme=jolly&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
